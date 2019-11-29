@@ -39,4 +39,4 @@ while (True):
 
 cap.release()
 cv2.destroyAllWindows()
-#tutorial parts: 1,2,3
+
